@@ -1,0 +1,8 @@
+{
+  "name": "exbuilder-ia",
+  "description": "Criação e Auditoria de conteúdo multimodais com IA. Vídeo até 50MB, Imagens, Editor IA e Transcrição.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
