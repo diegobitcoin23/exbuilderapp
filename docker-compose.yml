@@ -4,6 +4,6 @@ services:
     container_name: exbuilderapp
     restart: unless-stopped
     ports:
-      - "80:80"
+      - "8080:80"  # ← Mudou aqui
     environment:
       - NODE_ENV=production
